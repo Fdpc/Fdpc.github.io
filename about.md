@@ -3,13 +3,34 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+Here's a brief synopsis of my resume, but you can download it [here](https://drive.google.com/file/d/1QZXZvKlewTnLr9TTFdg_zNgqtDQtn-W8/view?usp=sharing)
 
-Some information about you!
+And you can email me [here](mailto:gbeitler@andrew.cmu.edu)
 
-### More Information
+### Education
 
-A place to include any other types of information that you'd like to include about yourself.
+Carnegie Mellon University - Major in Mathematics and Computer Science, GPA - 3.46, Graduating 2023
 
-### Contact me
+Brookdale Community College - Major in Social Sciences, GPA - 4.0, Graduated 2019
 
-[Student Email](mailto:gbeitler@andrew.cmu.edu)
+### Relevant Coursework
+
+#### Mathematics
+Mathematical Concepts and Proofs
+Matrices and Linear Transformations
+Discrete Mathematics
+Integration and Approximation
+Multidimensional Calculus (2020-2021)
+Algebraic Structures (2020-2021)
+Basic Logic (2020-2021)
+
+#### Computer Science
+Fundamentals of Programming and Computer Science
+Principles of Functional Programming (2020-2021)
+Principles of Imperative Computation (2020-2021)
+
+### Honors
+
+Hispanic Scholarship Fund Scholar
+
+Eagle Scout Rank
