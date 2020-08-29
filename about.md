@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-Here's a brief synopsis of my resume, but you can download it [here](https://drive.google.com/file/d/1QZXZvKlewTnLr9TTFdg_zNgqtDQtn-W8/view?usp=sharing)
+Here's a brief synopsis of my resume, but, for anything important, please download it [here](https://drive.google.com/file/d/1QZXZvKlewTnLr9TTFdg_zNgqtDQtn-W8/view?usp=sharing)
 
 And you can email me [here](mailto:gbeitler@andrew.cmu.edu)
 
