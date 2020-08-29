@@ -17,16 +17,24 @@ Brookdale Community College - Major in Social Sciences, GPA - 4.0, Graduated 201
 
 #### Mathematics
 Mathematical Concepts and Proofs
-Matrices and Linear Transformations
+
+Matrices and Linear Transformation
+
 Discrete Mathematics
+
 Integration and Approximation
+
 Multidimensional Calculus (2020-2021)
+
 Algebraic Structures (2020-2021)
+
 Basic Logic (2020-2021)
 
 #### Computer Science
 Fundamentals of Programming and Computer Science
+
 Principles of Functional Programming (2020-2021)
+
 Principles of Imperative Computation (2020-2021)
 
 ### Honors
