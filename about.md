@@ -3,10 +3,12 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-Here's a brief synopsis of my resume, but, for anything important, please download it [here](https://drive.google.com/file/d/1QZXZvKlewTnLr9TTFdg_zNgqtDQtn-W8/view?usp=sharing)
+You can download my resume [here](https://drive.google.com/file/d/1QZXZvKlewTnLr9TTFdg_zNgqtDQtn-W8/view?usp=sharing)
 
 And you can email me [here](mailto:gbeitler@andrew.cmu.edu)
 
+
+Here's a synopsis:
 ### Education
 
 Carnegie Mellon University - Major in Mathematics and Computer Science, GPA - 3.46, Graduating 2023
