@@ -8,7 +8,7 @@ You can download my resume [here](https://drive.google.com/file/d/1QZXZvKlewTnLr
 And you can email me [here](mailto:gbeitler@andrew.cmu.edu)
 
 
-Here's a synopsis:
+Here's a brief yet less complete summary:
 ### Education
 
 Carnegie Mellon University - Major in Mathematics and Computer Science, GPA - 3.46, Graduating 2023
